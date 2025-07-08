@@ -1,7 +1,7 @@
-h1{
-    color: aqua;
-}
-
 body{
-    background-color: black;
+    background-color: aqua;
+    color:red;
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }

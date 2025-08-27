@@ -1,4 +1,6 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
+
 body{
     background-color: aqua;
     color:red;
@@ -7,10 +9,11 @@ body{
     align-items: center;
     height: 700px;
     margin: 0;
+    font-family: Passion One;
 }
 
 button {
     background-color: #64A712;
     color: white;
-    
+    font-family: Passion One;
 }
